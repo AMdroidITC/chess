@@ -1,2 +1,2 @@
 # chess
-chess python
+chess GUI example [python]
